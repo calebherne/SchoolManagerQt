@@ -68,6 +68,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\SchoolAppClasses\Assignment.cpp" />
+    <ClCompile Include="..\..\SchoolAppClasses\Clas.cpp" />
+    <ClCompile Include="..\..\SchoolAppClasses\Login.cpp" />
+    <ClCompile Include="..\..\SchoolAppClasses\Quiz.cpp" />
+    <ClCompile Include="..\..\SchoolAppClasses\Student.cpp" />
+    <ClCompile Include="..\..\SchoolAppClasses\Syllabus.cpp" />
+    <ClCompile Include="..\..\SchoolAppClasses\Teacher.cpp" />
     <ClCompile Include="GeneratedFiles\Debug\moc_SchoolManagerQt.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -108,6 +115,13 @@
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\SchoolAppClasses\Assignment.h" />
+    <ClInclude Include="..\..\SchoolAppClasses\Clas.h" />
+    <ClInclude Include="..\..\SchoolAppClasses\Login.h" />
+    <ClInclude Include="..\..\SchoolAppClasses\Quiz.h" />
+    <ClInclude Include="..\..\SchoolAppClasses\Student.h" />
+    <ClInclude Include="..\..\SchoolAppClasses\Syllabus.h" />
+    <ClInclude Include="..\..\SchoolAppClasses\Teacher.h" />
     <ClInclude Include="GeneratedFiles\ui_SchoolManagerQt.h" />
   </ItemGroup>
   <ItemGroup>

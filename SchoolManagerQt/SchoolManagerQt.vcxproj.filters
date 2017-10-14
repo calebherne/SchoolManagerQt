@@ -45,6 +45,27 @@
     <ClCompile Include="GeneratedFiles\qrc_SchoolManagerQt.cpp">
       <Filter>Generated Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\SchoolAppClasses\Assignment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SchoolAppClasses\Clas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SchoolAppClasses\Login.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SchoolAppClasses\Quiz.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SchoolAppClasses\Student.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SchoolAppClasses\Syllabus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SchoolAppClasses\Teacher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="SchoolManagerQt.h">
@@ -60,6 +81,27 @@
   <ItemGroup>
     <ClInclude Include="GeneratedFiles\ui_SchoolManagerQt.h">
       <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SchoolAppClasses\Assignment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SchoolAppClasses\Clas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SchoolAppClasses\Login.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SchoolAppClasses\Quiz.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SchoolAppClasses\Student.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SchoolAppClasses\Syllabus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SchoolAppClasses\Teacher.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
